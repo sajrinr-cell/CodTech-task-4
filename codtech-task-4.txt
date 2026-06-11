@@ -1,0 +1,23 @@
+Netflix Content Visualization Documentation
+Objective
+
+To analyze and visualize Netflix content data using Python and identify trends in movies, TV shows, ratings, release years, and countries.
+
+Tools Used
+Google Colab
+Python
+Pandas
+Matplotlib
+Seaborn
+Methodology
+Imported and cleaned the Netflix dataset.
+Handled missing values and removed duplicates.
+Performed data analysis on content types, ratings, and countries.
+Created visualizations to display content trends.
+Results
+
+The analysis revealed insights into Netflix's content distribution, popular ratings, release patterns, and country-wise contributions.
+
+Conclusion
+
+This project demonstrates how data visualization can transform raw Netflix data into meaningful insights using Python and Google Colab.
